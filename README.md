@@ -1,6 +1,6 @@
 # 🏍️ Projeto Mottu – Detecção e Monitoramento de Motos com Visão Computacional
 
-# Link Video: 
+# Link Video: https://youtu.be/5Ap9HddAV2o
 
 ## 📘 Resumo do Projeto
 
